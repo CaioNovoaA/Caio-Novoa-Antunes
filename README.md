@@ -1,7 +1,7 @@
 # Caio-Novoa-Antunes
 
 
-<a href="https://www.imagensanimadas.com/cat-sol-278.htm"><img src="https://www.imagensanimadas.com/data/media/278/sol-imagem-animada-0858.gif" border="0" alt="sol-imagem-animada-0858" />
+<a href="https://tenor.com/view/thumbs-up-approve-okay-ok-dragon-ball-z-gif-15533511" />
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
