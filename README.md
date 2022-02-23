@@ -1,7 +1,7 @@
 # Caio-Novoa-Antunes
 
 
-<img src="https://tenor.com/view/dbz-goku-thumbs-up-gif-13136560">
+<img src="<div class="tenor-gif-embed" data-postid="13136560" data-share-method="host" data-aspect-ratio="1.78571" data-width="100%"><a href="https://tenor.com/view/dbz-goku-thumbs-up-gif-13136560">Dbz Goku GIF</a>from <a href="https://tenor.com/search/dbz-gifs">Dbz GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
