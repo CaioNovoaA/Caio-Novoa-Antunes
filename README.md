@@ -1,7 +1,7 @@
 # Caio-Novoa-Antunes
 
 
-https://tenor.com/view/thumbs-up-approve-okay-ok-dragon-ball-z-gif-15533511
+<img src="https://tenor.com/view/dbz-goku-thumbs-up-gif-13136560">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
